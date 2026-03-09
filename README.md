@@ -13,7 +13,7 @@ O projeto visa realizar o processo de **ETL (Extract, Transform, Load)** em uma 
 ## 📊 Planejamento de Tarefas (Sprint 1)
 - [ ] Definição da base de dados no Kaggle (Responsável: Rubia)
 - [ ] Estruturação do repositório e README (Responsável: Nicolas)
-- [ ] Descrição das transformações (Limpeza de nulos, tipos de dados) (Responsável: [Nome])
+- [ ] Descrição das transformações (Limpeza de nulos, tipos de dados) (Responsável: Felipe)
 - [ ] Protótipo do Dashboard (Quais gráficos usar) (Responsável: [Nome])
 
 ## 🛠️ Ideia Inicial do Dashboard (Streamlit)
