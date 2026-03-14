@@ -9,11 +9,11 @@ Analisar o conjunto de dados "Netflix Shows" (Kaggle) para entender a composiç�
 
 | Nome      | GitHub               | Responsabilidade                     |
 |-----------|----------------------|--------------------------------------|
-| Rubia     | @rubia-github        | Definição da base de dados           |
-| Nicolas   | @nicolas-github      | Estruturação do repositório e README |
-| Felipe    | @felipe-github       | Transformações (limpeza, tipos)      |
-| Vanderson | @vanderson-github    | Protótipo do Dashboard               |
-| Isaac     | @isaac-github        | Implementação do ETL com Pandas      |
+| Rubia     | @rubiamassaud        | Definição da base de dados           |
+| Nicolas   | @nicolasenne      | Estruturação do repositório e README |
+| Felipe    | @FelipeBalikian      | Transformações (limpeza, tipos)      |
+| Vanderson | @Vandersonlcm    | Protótipo do Dashboard               |
+| Isaac     | @Isaac09122        | Implementação do ETL com Pandas      |
 
 ## 🎯 Objetivo da Análise
 
